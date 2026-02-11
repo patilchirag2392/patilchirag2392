@@ -1,4 +1,4 @@
-# Hey, I'm Chirag 👋
+# Hey, it's Chirag!
 
 **Software Engineer | iOS & Full-Stack Developer | MS in Information Systems @ Northeastern University**
 
@@ -9,18 +9,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Software Engineer with **2+ years** of experience in mobile app development, full-stack web solutions, and IoT integration. I build things that work — from iOS apps controlling IoT devices to real-time emotion visualizations powered by AI. My work has driven **30% improvement in operational efficiency**, **50% reduction in testing cycles**, and production-ready apps serving real users.
 
-- 🎓 **MS in Information Systems** — Northeastern University (Expected Dec 2026)
-- 🎓 **B.Tech in Electronics** — Veermata Jijabai Technological Institute, Mumbai
-- 📍 Based in Boston, MA
-- 💼 Software Engineer Co-op @ **Dyspute.ai** (Starting Jan 2026)
+- **MS in Information Systems** — Northeastern University (Expected Dec 2026)
+- **B.Tech in Electronics** — Veermata Jijabai Technological Institute, Mumbai
+- Based in Boston, MA
+- Software Engineer Co-op @ **Dyspute.ai** (Starting Jan 2026)
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### 🏢 iOS Developer Intern — Crompton Greaves, India
 **June 2023 – Aug 2023**
@@ -33,7 +33,7 @@ Software Engineer with **2+ years** of experience in mobile app development, ful
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
@@ -83,9 +83,9 @@ Software Engineer with **2+ years** of experience in mobile app development, ful
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🎨 [Sentiment Aura](https://github.com/patilchirag2392/Sentiment-Aura) — Real-Time Emotion Visualization
+### [Sentiment Aura](https://github.com/patilchirag2392/Sentiment-Aura) — Real-Time Emotion Visualization
 > React.js · FastAPI · Anthropic Claude API · Deepgram · WebSocket · react-p5
 
 - Real-time speech-to-sentiment pipeline with **<500ms latency** and **95% classification accuracy** using Claude API
@@ -93,7 +93,7 @@ Software Engineer with **2+ years** of experience in mobile app development, ful
 - Dynamic **Perlin noise flow field** visualization mapping emotions to 10 distinct color palettes and particle behaviors
 - Fully responsive from mobile to 4K with animated UI components and staggered keyword fade-ins
 
-### 🍳 [PrepPal](https://github.com/patilchirag2392/PrepPal) — AI-Powered Meal Planning App
+### [PrepPal](https://github.com/patilchirag2392/PrepPal) — AI-Powered Meal Planning App
 > SwiftUI · MVVM · Firebase Firestore · Ollama (Local LLM) · Core Data
 
 - iOS meal planner with **local LLM integration** for AI-powered recipe recommendations and personalized nutrition
@@ -101,7 +101,7 @@ Software Engineer with **2+ years** of experience in mobile app development, ful
 - Budget tracking & analytics with Core Data, driving **35% improvement in budget adherence**
 - Built following Apple's Human Interface Guidelines with SwiftUI animations and gesture recognitions
 
-### 📚 [SkillPort](https://github.com/patilchirag2392/web_finalproject_group3) — Full-Stack Skill-Sharing Platform
+### [SkillPort](https://github.com/patilchirag2392/web_finalproject_group3) — Full-Stack Skill-Sharing Platform
 > React.js · Node.js · Express.js · MongoDB · JWT
 
 - Skill-sharing marketplace supporting **1000+ concurrent users** with **<200ms response times**
@@ -109,7 +109,7 @@ Software Engineer with **2+ years** of experience in mobile app development, ful
 - Advanced search with filtering, sorting & recommendation algorithms — **45% increase in course discovery**, **60% boost in engagement**
 - Responsive React UI with Hooks & Context API — **95% mobile compatibility score**
 
-### 🦯 [Smart Navi Stick](https://github.com/patilchirag2392/smart_navi_stick) — Accessibility Navigation Solution
+### [Smart Navi Stick](https://github.com/patilchirag2392/smart_navi_stick) — Accessibility Navigation Solution
 > Flutter · Firebase · ESP32 · Google Maps API · BLE
 
 - Navigation tool for visually impaired users — **100+ beta users**, **98% satisfaction rate**
@@ -117,22 +117,11 @@ Software Engineer with **2+ years** of experience in mobile app development, ful
 - Hardware-software BLE interface with ESP32 — **12-hour battery life** and reliable connectivity
 - Firebase Auth with biometric support and SOS alerts with **<3 second response time**
 
----
-
-## 📊 GitHub Stats
-
-
-![Chirag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patilchirag2392&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patilchirag2392&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patilchirag2392&theme=tokyonight&hide_border=true)
-
 
 ---
 
 
-### 📬 Let's Connect!
+### Let's Connect!
 
 Always down to chat about software development, AI integrations, or cool project ideas.
 
