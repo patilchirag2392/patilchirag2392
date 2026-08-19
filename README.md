@@ -6,30 +6,35 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patilchirag2392)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patil.chirag@northeastern.edu)
 
-
 ---
 
 ## About Me
 
-Software Engineer with **2+ years** of experience in mobile app development, full-stack web solutions, and IoT integration. I build things that work — from iOS apps controlling IoT devices to real-time emotion visualizations powered by AI. My work has driven **30% improvement in operational efficiency**, **50% reduction in testing cycles**, and production-ready apps serving real users.
+Software Engineer focused on shipping full-stack and AI-integrated products — from iOS apps controlling IoT hardware to real-time, API-driven web apps. I like building things that make it to real users, and my strongest work sits at the point where LLM/AI APIs meet polished, production-ready UI.
 
 - **MS in Information Systems** — Northeastern University (Expected Dec 2026)
 - **B.Tech in Electronics** — Veermata Jijabai Technological Institute, Mumbai
 - Based in Boston, MA
-- Software Engineer Co-op @ **Dyspute.ai** (Starting Jan 2026)
+- Software Engineer Co-op @ **Dyspute.ai** (Jan – May 2026)
 
 ---
 
 ## Experience
 
-### 🏢 iOS Developer Intern — Crompton Greaves, India
-**June 2023 – Aug 2023**
+### 🏢 Software Engineer Co-op — Dyspute.ai (Remote)
+**Jan 2026 – May 2026**
 
-- Built the **"Crompton Senze"** iOS app using Swift UIKit for real-time IoT testing of the Armor Pump product line — **50% reduction in testing cycle time**
-- Architected bidirectional IoT communication via **MQTT protocol**, achieving **99.9% uptime** for telemetry data and remote device configuration
-- Engineered custom auth API with secure token management and **RBAC**, cutting on-site configuration time by **70%**
-- Optimized app performance through async programming and memory management — **40% improvement in responsiveness and battery efficiency**
-- Delivered the application **2 weeks ahead of schedule** while maintaining code quality standards
+- Shipped features across a full-stack legal-tech product on a **React / Next.js / TypeScript / Convex** stack as part of a 4-person engineering team
+- Built end-to-end functionality including notifications, dashboard views, authentication, and the underlying data model
+- Improved transactional email deliverability and integrated AI-driven features into the product workflow
+
+### 🏢 iOS Developer Intern — Crompton Greaves, Mumbai
+**June 2023 – Dec 2023**
+
+- Built **"Crompton Senze,"** an iOS app in Swift / UIKit for real-time IoT testing of the Armor Pump product line
+- Architected bidirectional IoT communication over the **MQTT protocol** for telemetry and remote device configuration
+- Engineered a custom authentication API with secure token management and role-based access control (RBAC)
+- Integrated REST APIs and applied async programming and memory-management practices to keep the app responsive
 
 ---
 
@@ -49,11 +54,13 @@ Software Engineer with **2+ years** of experience in mobile app development, ful
 ### Mobile Development
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML-000000?style=flat-square&logo=apple&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
@@ -61,6 +68,7 @@ Software Engineer with **2+ years** of experience in mobile app development, ful
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
 
 ### Databases & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -69,10 +77,14 @@ Software Engineer with **2+ years** of experience in mobile app development, ful
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
+### AI & ML
+![Anthropic Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
 ### IoT & Hardware
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
 
 ### Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -88,38 +100,43 @@ Software Engineer with **2+ years** of experience in mobile app development, ful
 ### [Sentiment Aura](https://github.com/patilchirag2392/Sentiment-Aura) — Real-Time Emotion Visualization
 > React.js · FastAPI · Anthropic Claude API · Deepgram · WebSocket · react-p5
 
-- Real-time speech-to-sentiment pipeline with **<500ms latency** and **95% classification accuracy** using Claude API
-- WebSocket proxy architecture for secure bidirectional audio streaming with **99.9% uptime**
+- Real-time speech-to-sentiment pipeline: live audio is transcribed via Deepgram and classified through the Claude API
+- WebSocket proxy architecture for secure, bidirectional audio streaming between the React client and FastAPI backend
 - Dynamic **Perlin noise flow field** visualization mapping emotions to 10 distinct color palettes and particle behaviors
-- Fully responsive from mobile to 4K with animated UI components and staggered keyword fade-ins
+- Fully responsive UI from mobile to 4K with animated components and staggered keyword fade-ins
+
+### [ToneSafe](https://github.com/patilchirag2392/ToneSafe) — On-Device Tone & Safety ML App
+> SwiftUI · Core ML
+
+- iOS app using an on-device **Core ML** model built entirely in SwiftUI
+- Submitted to **Apple's Swift Student Challenge 2026**
+<!-- TODO: add a one-line description of exactly what ToneSafe does + repo link -->
 
 ### [PrepPal](https://github.com/patilchirag2392/PrepPal) — AI-Powered Meal Planning App
 > SwiftUI · MVVM · Firebase Firestore · Ollama (Local LLM) · Core Data
 
-- iOS meal planner with **local LLM integration** for AI-powered recipe recommendations and personalized nutrition
-- Offline-first architecture with Firebase sync — **<100ms latency**, **99.5% data consistency** across devices
-- Budget tracking & analytics with Core Data, driving **35% improvement in budget adherence**
-- Built following Apple's Human Interface Guidelines with SwiftUI animations and gesture recognitions
+- iOS meal planner with **local LLM inference via Ollama** for recipe recommendations and personalized nutrition
+- Offline-first architecture with Firebase sync for cross-device consistency
+- Budget tracking and analytics built on Core Data
+- Built to Apple's Human Interface Guidelines with SwiftUI animations and gesture recognition
 
 ### [SkillPort](https://github.com/patilchirag2392/web_finalproject_group3) — Full-Stack Skill-Sharing Platform
 > React.js · Node.js · Express.js · MongoDB · JWT
 
-- Skill-sharing marketplace supporting **1000+ concurrent users** with **<200ms response times**
-- RESTful APIs with JWT auth, RBAC (student/instructor/admin), and secure payments — **zero security incidents** in production
-- Advanced search with filtering, sorting & recommendation algorithms — **45% increase in course discovery**, **60% boost in engagement**
-- Responsive React UI with Hooks & Context API — **95% mobile compatibility score**
+- Skill-sharing marketplace with RESTful APIs and JWT authentication
+- Role-based access control (student / instructor / admin) and secure payment handling
+- Search with filtering, sorting, and recommendation logic
+- Responsive React UI built with Hooks and the Context API
 
 ### [Smart Navi Stick](https://github.com/patilchirag2392/smart_navi_stick) — Accessibility Navigation Solution
 > Flutter · Firebase · ESP32 · Google Maps API · BLE
 
-- Navigation tool for visually impaired users — **100+ beta users**, **98% satisfaction rate**
-- Google Maps integration with voice-guided nav, real-time tracking (**5m accuracy**) and obstacle detection
-- Hardware-software BLE interface with ESP32 — **12-hour battery life** and reliable connectivity
-- Firebase Auth with biometric support and SOS alerts with **<3 second response time**
-
+- Navigation aid for visually impaired users with voice-guided directions and obstacle detection
+- Google Maps integration with real-time location tracking
+- Hardware-software interface over BLE with an ESP32
+- Firebase Auth with biometric support and an SOS alert feature
 
 ---
-
 
 ### Let's Connect!
 
