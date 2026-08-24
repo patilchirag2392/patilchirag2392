@@ -1,6 +1,6 @@
 # Hey, it's Chirag!
 
-**Software Engineer | iOS & Full-Stack Developer | MS in Information Systems @ Northeastern University**
+**Software Engineer | Full-Stack, iOS & AI-Integrated Systems | MS in Information Systems @ Northeastern University**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragp2392)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patilchirag2392)
@@ -10,7 +10,7 @@
 
 ## About Me
 
-Software Engineer focused on shipping full-stack and AI-integrated products — from iOS apps controlling IoT hardware to real-time, API-driven web apps. I like building things that make it to real users, and my strongest work sits at the point where LLM/AI APIs meet polished, production-ready UI.
+Software Engineer focused on shipping full-stack, AI-integrated, and real-time products — from iOS apps controlling IoT hardware, to API-driven web apps, to real-time collaborative systems. I like building things that make it to real users, and my strongest work sits at two edges: where LLM/AI APIs meet polished, production-ready UI, and where backend systems handle concurrency, sync, and scale.
 
 - **MS in Information Systems** — Northeastern University (Expected Dec 2026)
 - **B.Tech in Electronics** — Veermata Jijabai Technological Institute, Mumbai
@@ -26,7 +26,7 @@ Software Engineer focused on shipping full-stack and AI-integrated products — 
 
 - Shipped features across a full-stack legal-tech product on a **React / Next.js / TypeScript / Convex** stack as part of a 4-person engineering team
 - Built end-to-end functionality including notifications, dashboard views, authentication, and the underlying data model
-- Improved transactional email deliverability and integrated AI-driven features into the product workflow
+- Participated in code reviews and used LLM-assisted dev tools (Cursor, Copilot, Claude Code) daily; improved transactional email deliverability and integrated AI-driven features into the product workflow
 
 ### 🏢 iOS Developer Intern — Crompton Greaves, Mumbai
 **June 2023 – Dec 2023**
@@ -70,12 +70,16 @@ Software Engineer focused on shipping full-stack and AI-integrated products — 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
 
-### Databases & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Databases, Cloud & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### AI & ML
 ![Anthropic Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -91,7 +95,6 @@ Software Engineer focused on shipping full-stack and AI-integrated products — 
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -102,15 +105,24 @@ Software Engineer focused on shipping full-stack and AI-integrated products — 
 
 - Real-time speech-to-sentiment pipeline: live audio is transcribed via Deepgram and classified through the Claude API
 - WebSocket proxy architecture for secure, bidirectional audio streaming between the React client and FastAPI backend
-- Dynamic **Perlin noise flow field** visualization mapping emotions to 10 distinct color palettes and particle behaviors
+- Dynamic **Perlin noise flow field** visualization mapping emotions to distinct color palettes and particle behaviors
 - Fully responsive UI from mobile to 4K with animated components and staggered keyword fade-ins
+
+### [Converge](https://github.com/patilchirag2392/converge) — Real-Time Collaborative Editor *(in progress)*
+> React · TypeScript · FastAPI · WebSockets · PostgreSQL · Redis · Docker · Nginx · AWS
+
+- Real-time collaborative document editor where multiple clients edit concurrently, synced over a FastAPI WebSocket server
+- Custom **RGA-style sequence CRDT** written from scratch (no library) for conflict-free concurrent merges, with PostgreSQL persistence
+- **Redis pub/sub** for multi-instance message fan-out; containerized with Docker behind an Nginx reverse proxy
+- Deployed on AWS with a GitHub Actions CI/CD pipeline
+<!-- TODO: link the Converge repo here once it's public and presentable -->
 
 ### [ToneSafe](https://github.com/patilchirag2392/ToneSafe) — On-Device Tone & Safety ML App
 > SwiftUI · Core ML
 
-- iOS app using an on-device **Core ML** model built entirely in SwiftUI
+- iOS app that analyzes message tone for harmful patterns **before you hit send**, scoring messages across multiple tone categories
+- Runs an on-device **Core ML** model built entirely in SwiftUI — privacy-preserving, no message data leaves the device
 - Submitted to **Apple's Swift Student Challenge 2026**
-<!-- TODO: add a one-line description of exactly what ToneSafe does + repo link -->
 
 ### [PrepPal](https://github.com/patilchirag2392/PrepPal) — AI-Powered Meal Planning App
 > SwiftUI · MVVM · Firebase Firestore · Ollama (Local LLM) · Core Data
